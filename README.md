@@ -83,3 +83,5 @@ rails db:seed
 4. Do a Pull Request
 5. Please add your Project Idea: (https://docs.google.com/spreadsheets/d/1-sbz4FfsvwwU1PMg3wsVa9zpdf2RCYPSUvAmlkG4Dcw/edit#gid=0)
 
+https://github.com/SafwanAlqulayti/book_app.git
+https://bookappsafwan.herokuapp.com/
